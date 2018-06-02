@@ -1,3 +1,3 @@
-FROM evilbeaver/oscript-web:dev
+FROM oscript/omvc-engine
 
-COPY src /var/osp.net/
+COPY src /app
